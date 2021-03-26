@@ -1,0 +1,35 @@
+{"Books on my Desk" : [
+
+	{
+		"title" : "Become What You Are",
+		"author(s)":{
+			"Main": "Alan Watts",
+		},
+		"Year Published" : 2003,
+		"Publishing House" : : "Shambhala Publications",
+		"Number of Pages" : 132
+	},
+
+	{
+		"title" : "The Way of Zen",
+		"author(s)":{
+			"Main": "Alan Watts",
+		},
+		"Year Published" : 1999,
+		"Publishing House" : : "Random House Publications",
+		"Number of Pages" : 236
+	},
+
+	{
+		"title" : "The Nakshatras ",
+		"author(s)":{
+			"Main": "Dennis M. Harness",
+			"Co-Author": "David Fawley"
+		},
+		"Year Published" : 1999,
+		"Publishing House" : : "Lotus Press",
+		"Number of Pages" : 177
+	},
+
+]
+}
